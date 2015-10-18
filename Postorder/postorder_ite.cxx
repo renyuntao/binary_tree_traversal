@@ -61,7 +61,7 @@ void Postorder_ite(Node *root)
 int main()
 {
 	/*   Constructed binary tree is
-	            1
+	                    1
 			   / \
 			  2   3
 			 /   / \
