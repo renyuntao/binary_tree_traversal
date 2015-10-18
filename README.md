@@ -1,1 +1,1 @@
-**Binary tree traversal with recursive solution and iterative solution.**
+**Binary tree traversal with recursive algorithm and iterative algorithm.**
